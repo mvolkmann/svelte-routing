@@ -34,6 +34,8 @@
 </nav>
 
 <main>
+  <!-- This is a special Svelte element
+       that renders a given component. -->
   <svelte:component this={component} />
 </main>
 
